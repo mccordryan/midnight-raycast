@@ -1,3 +1,3 @@
-# Midnight
+# Midnight Raycast
 
-Time Tracking Tool
+Raycast extension for https://midnight.app
